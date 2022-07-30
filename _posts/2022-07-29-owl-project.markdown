@@ -78,4 +78,4 @@ I usually start the design process with low-fidelity wireframes. This is the way
 # Users should be the center of your product
 - Talking to the users in-depth and getting their viewpoint before you start brainstorming about the potential solutions is a great way to come up with a product that would be useful for the users.
 - Sometimes, the users won't know they require a product until they are introduced to that product.
-- Testing this platform would be my next step. This would help me understand if this product adds value to the volunteer's everyday tasks or not. 
+- Testing this platform would be my next step. This would help me understand if this product adds value to the volunteer's everyday tasks or not.
